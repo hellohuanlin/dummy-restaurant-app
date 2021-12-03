@@ -1,0 +1,156 @@
+{
+  "restaurants": [
+    {
+      "name": "Main Cafe",
+      "file_name": "main_cafe.png",
+      "website": "https://google.com",
+      "location": {
+        "name": "Mountain View",
+        "latitude": 37.4133981,
+        "longitude": -122.1162864
+      },
+      "dishes": [
+        {
+          "name": "ama ebi",
+          "file_name": "amaebi.png",
+          "category": "japanese",
+          "allergens": ["shrimp"]
+        },
+        {
+          "name": "apple juice",
+          "file_name": "apple_juice.png",
+          "category": "vegetarian",
+          "allergens": []
+        },
+        {
+          "name": "bento box",
+          "file_name": "bentobox.png",
+          "category": "japanese",
+          "allergens": ["fish", "shrimp"]
+        },
+        {
+          "name": "burger",
+          "file_name": "burger.png",
+          "category": "misc",
+          "allergens": []
+        },
+        {
+          "name": "coke",
+          "file_name": "coke.png",
+          "category": "vegetarian",
+          "allergens": []
+        },
+        {
+          "name": "fries",
+          "file_name": "fries.png",
+          "category": "vegetarian",
+          "allergens": []
+        },
+        {
+          "name": "orange juice",
+          "file_name": "orange_juice.png",
+          "category": "vegetarian",
+          "allergens": []
+        },
+        {
+          "name": "pizza",
+          "file_name": "pizza.png",
+          "category": "italian",
+          "allergens": []
+        },
+        {
+          "name": "rice",
+          "file_name": "rice.png",
+          "category": "vegetarian",
+          "allergens": []
+        },
+        {
+          "name": "shrimp",
+          "file_name": "shrimp.png",
+          "category": "misc",
+          "allergens": ["shrimp"]
+        },
+        {
+          "name": "spaghetti",
+          "file_name": "spaghetti.png",
+          "category": "italian",
+          "allergens": ["fish", "shrimp"]
+        },
+        {
+          "name": "steak",
+          "file_name": "steak.png",
+          "category": "misc",
+          "allergens": []
+        },
+        {
+          "name": "sushi",
+          "file_name": "sushi.png",
+          "category": "japanese",
+          "allergens": ["fish", "shrimp"]
+        },
+        {
+          "name": "sushi roll",
+          "file_name": "sushi_roll.png",
+          "category": "japanese",
+          "allergens": ["fish", "shrimp"]
+        },
+        {
+          "name": "water",
+          "file_name": "water.png",
+          "category": "vegetarian",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Micro Kitchen",
+      "file_name": "micro_kitchen.png",
+      "website": "https://youtube.com",
+      "location": {
+        "name": "Mountain View",
+        "latitude": 37.4133981,
+        "longitude": -122.1162864
+      },
+      "dishes": [
+        {
+          "name": "pizza",
+          "file_name": "pizza.png",
+          "category": "italian",
+          "allergens": []
+        },
+        {
+          "name": "spaghetti",
+          "file_name": "spaghetti.png",
+          "category": "italian",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "name": "Noodle Bar",
+      "file_name": "noodle_bar.png",
+      "website": "https://google.com",
+      "location": {
+        "name": "San Bruno",
+        "latitude": 37.6228238,
+        "longitude": -122.4714289
+      },
+      "dishes": [
+        {
+          "name": "spaghetti",
+          "file_name": "spaghetti.png",
+          "category": "italian",
+          "allergens": []
+        },
+        {
+          "name": "water",
+          "file_name": "water.png",
+          "category": "vegetarian",
+          "allergens": []
+        }
+      ]
+    }
+
+  ]
+}
+
