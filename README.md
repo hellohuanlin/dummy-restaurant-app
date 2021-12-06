@@ -1,6 +1,9 @@
-# learn_flutter
+# dummy restaurant app
 
-A new Flutter project.
+Learn flutter as a swift developer.
+
+![Demo](/demo.gif)
+
 
 ## Getting Started
 
